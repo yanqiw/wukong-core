@@ -1,0 +1,35 @@
+{
+  "name": "wukong-core",
+  "version": "0.0.1",
+  "description": "the core of wukong frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanqiw/wukong-core.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "sage",
+    "frameworks"
+  ],
+  "author": "Francis Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanqiw/wukong-core/issues"
+  },
+  "homepage": "https://github.com/yanqiw/wukong-core#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0"
+  },
+  "devDependencies": {
+    "lerna": "^2.10.2"
+  }
+}
